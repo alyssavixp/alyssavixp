@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on programming assignemnets.
+- 🔭 I’m currently working on programming assignments.
 - 🌱 I’m currently learning Computer Science @ Fordham University.
 - 👯 I’m looking to collaborate on programming projects.
 - 🤔 I’m looking for help with GitHub.
